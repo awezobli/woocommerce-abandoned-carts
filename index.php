@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Abandoned carts by htm.pl
+Plugin Name: WooCommerce abandoned carts by htm.pl
 Description: Wtyczka do rejestrowana i analizy porzuconych koszyków w sklepie internetowych WooCommerce. Aktywacja lub dezaktywacja wtyczki powoduje wysłanie anonimowej informacji do htm.pl do celów statystycznych.
 * Version:       1.0
 * Author:        HTM.pl
@@ -68,9 +68,9 @@ function delete_abandoned_cart_table() {
 }
 register_deactivation_hook( __FILE__, 'delete_abandoned_cart_table' );
 
-// Funkcja wysyłająca wiadomość e-mail do biuro@htm.pl
+
 function send_activation_deactivation_email($action) {
-    $to = 'biuro@htm.pl';
+    $to = '';
     $subject = 'Wtyczka Porzucone Koszyki - ' . ($action === 'activate' ? 'Aktywowana' : 'Dezaktywowana');
     $message = 'Wtyczka Porzucone Koszyki została ' . ($action === 'activate' ? 'aktywowana' : 'dezaktywowana') . ' przez administratora serwisu ' . get_bloginfo('name') . '. Adres strony: ' . get_bloginfo('url') . '.';
     $headers = 'From: WordPress Admin <admin@example.com>';
