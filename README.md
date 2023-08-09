@@ -12,6 +12,9 @@ Funkcjonalność wtyczki:
 - możliwość pobrania szczegółowego raportu CSV lub wyysłki na wskazanego maila
 - czyszczenie bazy porzuconych koszyków
 
+Poszukujesz wsparcia w zakresie porzuconych koszyków w Twoim sklepie internetowym WooCommerce? Zapraszamy do współpracy: [WooCommerce AI Automation Agency](https://htm.pl)
+
+
 -------------------------
 # Woocommerce - Abandoned Carts
 
@@ -36,4 +39,4 @@ It's worth emphasizing that the plugin is available in Polish and will soon be a
 
 
 
-[WooCommerce AI Automation Agency](https://htm.pl)
+Looking for assistance with abandoned carts in your WooCommerce online store? We invite you to collaborate with us: [WooCommerce AI Automation Agency](https://htm.pl)
