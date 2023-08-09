@@ -8,7 +8,7 @@ Po aktywowaniu wtyczki, automatycznie rozpocznie się rejestracja wszystkich ope
 
 Funkcjonalność wtyczki:
 - rejestrowanie operacji dodawania, aktualizacji koszyków
-- wgląd we wszystkich zarejestrowanye pozycje w porzuconych koszykach
+- wgląd we wszystkie zarejestrowane pozycje w porzuconych koszykach
 - możliwość pobrania szczegółowego raportu CSV lub wyysłki na wskazanego maila
 - czyszczenie bazy porzuconych koszyków
 
