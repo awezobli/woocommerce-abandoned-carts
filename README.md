@@ -1,4 +1,4 @@
-# Woocommerce Abandoned Carts / Porzucone koszyki
+# WooCommerce - Porzucone Koszyki
 
 Wtyczka do systemu CMS WordPress z zainstalowanym rozszerzeniem WooCommerce.
 
@@ -13,6 +13,7 @@ Funkcjonalność wtyczki:
 - czyszczenie bazy porzuconych koszyków
 
 -------------------------
+# Woocommerce - Abandoned Carts
 
 Plugin for the WordPress CMS system with the WooCommerce extension installed.
 
@@ -34,9 +35,6 @@ Number of cart items categorized by registered and unregistered users.
 It's worth emphasizing that the plugin is available in Polish and will soon be available in English as well.
 
 
-Dostęp do podsumowania zawierającego m.in: 
-- łączna ilość porzuconych koszyków
-- łączna wartość towarów w porzuconych koszykach z podziałem na użytkowników zarejestrowanych i anonimowych
-- ilość pozycji w koszykach z podziałem na osoby zarejestrowane i niezarejestrowane
 
-Warto podkreślić, że wtyczka jest dostępna w języku polskim, a wkrótce będzie także dostępna w wersji angielskiej.
+[a link]
+(https://htm.pl)
