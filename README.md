@@ -36,5 +36,4 @@ It's worth emphasizing that the plugin is available in Polish and will soon be a
 
 
 
-[a link]
-(https://htm.pl)
+[WooCommerce AI Automation Agency](https://htm.pl)
